@@ -1,10 +1,16 @@
 {
   "tasks": [
     {
-      "text": "Walktimes",
-      "day": "Monday at 11:30am",
-      "reminder": false,
-      "id": 1
+      "text": "Clean my room",
+      "day": "Friday at 7:30pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Cozinhar",
+      "day": "A noite",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
